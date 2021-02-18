@@ -73,7 +73,7 @@ Iâ€™m a Front-end developer. I'm fluent in JavaScript, React.js, Next.js and Iâ€
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanhabibipanah&hide_border=true&layout=compact" align="center" style="width: 100%, margin: 2%;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanhabibipanah&hide_border=true&layout=compact" align="center" style="width: 100%; margin: 2%;" />
 
 </td></tr></table>  
 
