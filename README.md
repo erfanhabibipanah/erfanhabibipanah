@@ -69,11 +69,11 @@ Iâ€™m a Front-end developer. I'm fluent in JavaScript, React.js, Next.js and Iâ€
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=erfanhabibipanah&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%; margin: 35px 0 0 0;" />
+<img src="https://github-readme-stats.vercel.app/api?username=erfanhabibipanah&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%;" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanhabibipanah&hide_border=true&layout=compact" align="center" style="width: 100%; margin: 12%;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanhabibipanah&hide_border=true&layout=compact" align="center" style="width: 100%;" />
 
 </td></tr></table>  
 
