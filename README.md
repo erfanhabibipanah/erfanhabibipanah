@@ -18,16 +18,13 @@
 
 
 ### About me  
-I’m a Front-end developer. I'm fluent in JavaScript, React.js, Next.js and I’m passionate about learning TypeScript, GraphQL, and Node.js. for more details you can see [my portfolio website](https://www.erfanhabibipanah.dev/).  
+I’m a developer. I'm fluent in JavaScript, React.js, Next.js and I’m passionate about learning TypeScript, GraphQL, and Node.js.
   
 
 <br/>  
 
 
 ## Rapidfire  
-- 🔭 I’m currently looking for a job.  
-  
-
 - 🌱 I’m currently improving my skills in React.js and Next.js.  
   
 
