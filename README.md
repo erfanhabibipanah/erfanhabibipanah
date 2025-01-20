@@ -10,28 +10,7 @@
 <a href="https://linkedin.com/in/erfanhabibipanah" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/erfan.habibipanah" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
   
-
-
-
-### About me  
-I’m a developer. I'm fluent in JavaScript, React.js, Next.js and I’m passionate about learning TypeScript, GraphQL, and Node.js.
-  
-
-<br/>  
-
-
-## Rapidfire  
-- 🌱 I’m currently improving my skills in React.js and Next.js.  
-  
-
-- ❓ Ask me about anything related to React, ... .  
-  
-
-<br/>  
 
 
 ## Languages and Tools  
