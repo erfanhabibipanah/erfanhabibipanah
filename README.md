@@ -32,11 +32,9 @@ Claude Code stores each project's memory in a directory named after the project'
 
 ### What else I'm building
 
-| | |
-|---|---|
-| **[skim-db-secure](https://github.com/erfanhabibipanah/skim-db-secure)** `C++` | Database components for [SKiM](https://gitlab.com/SCoRe-Group/SKiM), a memory-efficient metagenomic classifier for Oxford Nanopore reads. Short k-mers, compression, and statistical correction to keep classification fast without holding the index in RAM. |
-| **[marina-blanton-site](https://github.com/erfanhabibipanah/marina-blanton-site)** `TypeScript` | Static faculty site for Prof. Marina Blanton (CSE, University at Buffalo). Content is YAML, deploys with one command. |
-| **[commonbook](https://github.com/erfanhabibipanah/commonbook)** `Python` | Above. |
+**[skim-db-secure](https://github.com/erfanhabibipanah/skim-db-secure)** &nbsp;`C++`
+
+Database components for [SKiM](https://gitlab.com/SCoRe-Group/SKiM), a memory-efficient metagenomic classifier for Oxford Nanopore reads. Short k-mers with compression and statistical correction, so classification stays fast without holding the whole index in RAM.
 
 ---
 
