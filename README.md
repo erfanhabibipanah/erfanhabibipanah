@@ -13,6 +13,12 @@
   
 
 
+## Projects
+
+**[Commonbook](https://github.com/erfanhabibipanah/commonbook)** — Claude Code forgets a project when you move or rename its folder. It keys each project's auto memory on the folder's filesystem path, so a plain `mv` silently orphans every note: the next session starts blank, the old notes stay on disk addressed by a path that no longer exists, and nothing errors. Commonbook rekeys that memory to the repo's git remote so it survives renames and re-clones, and recovers what path-keying already lost.
+
+Python standard library only, no dependencies, MIT. [Read the writeup](https://erfanhabibipanah.github.io/commonbook/) or check your own machine with the one-liner in the README.
+
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
