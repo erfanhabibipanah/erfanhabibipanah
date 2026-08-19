@@ -1,6 +1,6 @@
 ## Erfan Habibi Panah Fard
 
-Full-stack developer and CS graduate student in Buffalo, NY. Most of what I build lately falls into three piles: developer tooling in Python, systems and bioinformatics work in C++, and web in TypeScript. I like problems where the bug is in the *design* rather than the code — the kind that never throws an error.
+Full-stack developer and CS graduate student in Buffalo, NY, working on secure multi-party computation with Prof. Marina Blanton. Most of what I build falls into four piles: compilers and cryptography in C/C++, developer tooling in Python, bioinformatics, and web in TypeScript. I like problems where the bug is in the *design* rather than the code — the kind that never throws an error.
 
 <a href="https://www.erfanhabibipanah.dev" target="_blank">
 <img src="https://img.shields.io/badge/website-%2324292e.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="website" style="margin-bottom: 5px;" />
@@ -31,6 +31,12 @@ Claude Code stores each project's memory in a directory named after the project'
 ---
 
 ### What else I'm building
+
+**[PICCO](https://github.com/applied-crypto-lab/picco)** &nbsp;`C` `C++`
+
+A source-to-source compiler that turns annotated C into secure multi-party computation protocols — the reference implementation from the 2013 paper, still being sharpened. My work is on the code generator: a batch multi-operation optimisation that groups operations across loop iterations instead of emitting them one at a time, plus truncation and right-shift corrections on both the Shamir and replicated-secret-sharing backends. ~157 commits on `master`; the batch work is on `batch-multi-op-dev`.
+
+---
 
 **[skim-db-secure](https://github.com/erfanhabibipanah/skim-db-secure)** &nbsp;`C++`
 
