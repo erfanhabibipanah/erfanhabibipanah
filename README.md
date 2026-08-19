@@ -60,3 +60,14 @@ Database components for [SKiM](https://gitlab.com/SCoRe-Group/SKiM), a memory-ef
 </div>
 
 <sub>The React clones dated 2021 are from when I was learning the framework. Left up on purpose — they're where this started.</sub>
+
+---
+
+<!-- ACTIVITY:START -->
+### Activity · last 30 days
+
+`1451` commits  ·  `791` PRs merged  ·  `57` reviews
+across **16+ repositories** (14 private)
+
+<sub>public and private work, counted together · updated 2026-08-19</sub>
+<!-- ACTIVITY:END -->
