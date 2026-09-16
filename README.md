@@ -38,7 +38,7 @@ Claude Code stores each project's memory in a directory named after the project'
 
 Ten agents on a laptop means ten worktrees and ten test suites fighting over one CPU, so I moved the work to GitHub Actions: one task, one branch, one pull request. Starting them was the easy part. The hard part was every way a green checkmark can lie.
 
-A PR opened with `GITHUB_TOKEN` gets no CI at all, and "nothing is failing" reads it as passed. A watcher called a four-minute-old run all green; E2E finished with 17 failures. CI was green all three times production went down in one night.
+A PR opened with `GITHUB_TOKEN` sits with zero checks until someone approves its CI, and "nothing is failing" reads that as passed. A watcher called a four-minute-old run all green; E2E finished with 17 failures. CI was green all three times production went down in one night.
 
 **[agentwave](https://github.com/erfanhabibipanah/agentwave)** dispatches a wave from a tasks file and resumes it by set difference, so finished work never runs twice. It lands an agent PR only when every check has completed green and the diff touches nothing CI can't prove safe. One Python file, standard library only, MIT.
 
